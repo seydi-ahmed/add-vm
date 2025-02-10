@@ -18,7 +18,7 @@ Extraire 01_add-vm.tar.gz dans le dossier VirtualBox VMs de ton répertoire pers
 1) Ouvrir VirtualBox
 2) Sélectionner Machine → Ajouter
 3) Ouvrir le fichier 01_add-vm.vbox
-- La VM "01_add-vm" devrait apparaître dans la liste
+4) La VM "01_add-vm" devrait apparaître dans la liste
 
 ## Création de la machine virtuelle
 - nom d'utilisateur: root
