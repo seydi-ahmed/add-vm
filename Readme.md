@@ -15,7 +15,7 @@ Pour X86-64 : Télécharger 01_add-vm.tar.gz --> https://assets.01-edu.org/sys/0
 Extraire 01_add-vm.tar.gz dans le dossier VirtualBox VMs de ton répertoire personnel
 
 ## Ajouter la machine virtuelle
-- Ouvrir VirtualBox
+1) Ouvrir VirtualBox
 - Sélectionner Machine → Ajouter
 - Ouvrir le fichier 01_add-vm.vbox
 - La VM "01_add-vm" devrait apparaître dans la liste
