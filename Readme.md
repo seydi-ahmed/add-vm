@@ -30,3 +30,9 @@ Extraire 01_add-vm.tar.gz dans le dossier VirtualBox VMs de ton répertoire pers
 1) nom d'utilisateur: root
 2) mot de passe: Un Espace
 
+## Vérification de quelques informations
+1) faites quelques commandes comme celles-ci
+- df -h
+- ip a
+2) éteindre la machine
+- shutdown -h now
