@@ -20,6 +20,13 @@ Extraire 01_add-vm.tar.gz dans le dossier VirtualBox VMs de ton répertoire pers
 3) Ouvrir le fichier 01_add-vm.vbox
 4) La VM "01_add-vm" devrait apparaître dans la liste
 
-## Création de la machine virtuelle
+## Créer un snapshot
+1) Sélectionner la VM
+2) Rechercher Instantannées
+3) Prendre un snapshot
+4) Lui donner un nom
+
+## Ouverture de la machine virtuelle
 1) nom d'utilisateur: root
 2) mot de passe: Un Espace
+
