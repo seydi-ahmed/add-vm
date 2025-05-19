@@ -1,4 +1,8 @@
 # add-vm (3e projet de la branche admisys)
+
+## lien vers l'exo
+https://github.com/01-edu/public/tree/master/subjects/add-vm
+
 ## avoir virtualbox
 Télécharger virtualbox si ce n'est pas encore fait: https://www.virtualbox.org/
 
